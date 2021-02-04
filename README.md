@@ -1,16 +1,17 @@
-### Hi there 👋
+## About Me
 
-<!--
-**morsapaes/morsapaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-@morsapaes-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/morsapaes)](https://twitter.com/morsapaes)
+[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/morsapaes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/morsapaes/)](https://www.linkedin.com/in/morsapaes/)
 
-Here are some ideas to get you started:
+I'm a Developer Advocate at [Ververica](https://www.ververica.com/) and a contributor to [Apache Flink](https://flink.apache.org/). Before finding my mojo in open source, I worked as a DWH Engineer for 4+ years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Things I Like:
+
+:fish_cake: Streaming Analytics
+
+:package: Data Warehousing
+
+:sparkles: Emerging Data Infra Architectures
+
+:squid: Developer Relations
