@@ -14,4 +14,4 @@ I'm a Senior Developer Advocate at [Materialize](https://materialize.com/), and 
 
 :sparkles: Emerging Data Infra Architectures
 
-:squid: Developer Relations
+:squid: Developer Experience
