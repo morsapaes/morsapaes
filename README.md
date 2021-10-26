@@ -12,6 +12,4 @@ I'm a Senior Developer Advocate at [Materialize](https://materialize.com/), and 
 
 :package: Data Warehousing
 
-:sparkles: Emerging Data Architectures
-
-:squid: Developer Experience
+:squid: Emerging Data Architectures
