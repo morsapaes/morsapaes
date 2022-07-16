@@ -4,11 +4,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/morsapaes/)](https://www.linkedin.com/in/morsapaes/)
 
 I'm a Senior Developer Experience Engineer at [Materialize](https://materialize.com/), and was previously a contributor to [Apache Flink](https://flink.apache.org/). Before finding my mojo in streaming systems and developer experience, I worked as a DWH Engineer for 4+ years.
-
-#### Things I Like:
-
-:fish_cake: Streaming Analytics
-
-:package: Data Warehousing
-
-:squid: Emerging Data Architectures
